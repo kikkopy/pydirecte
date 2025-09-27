@@ -2,7 +2,7 @@
 
 A Python API wrapper for EcoleDirecte - Access your school data programmatically.
 
-[![PyPI version](https://badge.fury.io/py/pydirecte.svg)](https://badge.fury.io/py/pydirecte)
+[![PyPI version](https://badge.fury.io/py/pydirecte.svg)](https://badge.fury.io/py/pydirecte/)
 [![Python Support](https://img.shields.io/pypi/pyversions/pydirecte.svg)](https://pypi.org/project/pydirecte/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
