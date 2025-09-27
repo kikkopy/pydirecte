@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pydirecte"
+version = "1.0.3"
+description = "A Python API wrapper for EcoleDirecte"
+readme = "README.md"
+authors = [
+    { name = "kikkopy" }
+]
+license = { text = "GPL-3.0-or-later" }
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+keywords = ["ecoledirecte", "api", "wrapper", "school", "education"]
+dependencies = [
+    "requests>=2.31.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/kikkopy/pydirecte"
+Documentation = "https://github.com/kikkopy/pydirecte#readme"
+Repository = "https://github.com/kikkopy/pydirecte"
+"Bug Tracker" = "https://github.com/kikkopy/pydirecte/issues"

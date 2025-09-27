@@ -1,0 +1,20 @@
+# PyDirecte - .gitignore
+
+# Fichiers de config persos
+.pypirc
+
+# Fichiers Python courants à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Fichiers temporaires et IDE
+.vscode/
+.idea/
+.DS_Store
+
+# (Ajoute ici tout autre fichier/dossier à ne jamais uploader)
